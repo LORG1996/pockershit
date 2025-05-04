@@ -1,2 +1,2 @@
 # pockershit
-backend for pockershit game
+server part for pockershit game
